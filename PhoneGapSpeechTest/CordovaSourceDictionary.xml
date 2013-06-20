@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- This file is auto-generated, do not edit! -jm -->
+<CordovaSourceDictionary>
+    <FilePath Value="www\cordova-2.6.0.js"/>
+    <FilePath Value="www\index.html"/>
+    <FilePath Value="www\nuancespeechkit.js"/>
+    <FilePath Value="www\sample.css"/>
+    <FilePath Value="www\sample.js"/>
+    <FilePath Value="www\transparent.png"/>
+</CordovaSourceDictionary>
